@@ -1,4 +1,4 @@
-## Link to stattic website
+## Link to static website
 
 d2y7o2h6kf3wcs.cloudfront.net
 
